@@ -1,3 +1,7 @@
 # Daw-Clase1
 
-Primer comentario de la clase 1
+## DESARROLLO DE ARQUITECTURA WEB
+* Rosales Ignacio
+* Comisión: 4-A
+
+Este readme tiene el proposito de completar la pimera tarea de la clase 1
