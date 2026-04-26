@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario Suscripcion</title>
+</head>
+<body>
+    <!-- Elemento form es un elemento de bloque -->
+    <form>
+        <!-- Elemento h2 es un elemento de bloque -->
+        <h2> Formulario de suscripción.</h2>
+        <!-- Elementos label, input, textarea, button son elementos en línea -->
+        <label for="nombre">Nombre:</label><br>
+        <input type="text" id="nombre" name="nombre" required><br>
+        <label for="apellido">Apellido:</label><br>
+        <input type="text" id="apellido" name="apellido" required>
+        <br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required>
+        <br>
+        <label for="comentario">Comentario:</label><br>
+        <textarea id="comentario" name="comentario"></textarea>
+        <br>
+        <input type="radio" id="masculino" name="genero" value="Masculino" checked>
+        <label for="masculino">Masculino</label><br>
+
+        <input type="radio" id="femenino" name="genero" value="Femenino">
+        <label for="femenino">Femenino</label><br>
+
+        <button type="submit">Enviar</button>
+    </form>
+    <a href="index.html">Volver al sitio</a>
+</body>
+</html>
