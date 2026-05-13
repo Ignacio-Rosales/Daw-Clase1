@@ -7,3 +7,5 @@
 Este readme tiene el proposito de completar la pimera tarea de la clase 1
 
 Url utilizada para la nueva noticia de la clase 04 css: https://www.lacapital.com.ar/economia/leve-repunte-la-actividad-economica-santa-fe-pero-aun-senales-firmes-recuperacion-n10257576.html
+
+Url utilizada para la noticia3 de la clase 05 responsive: https://unr.edu.ar/masiva-marcha-por-la-universidad-publica/
